@@ -1,12 +1,4 @@
 
-</p>
-
-## Languages and tools
-<p align="center">
-    <a href=["https://skillicons.dev"](https://www.linkedin.com/in/chi-linh-mac/)>
-    <img src="https://skillicons.dev/icons?i=cs,html,css,azure,mongodb,postgres,visualstudio,vscode,docker" />
-    </a>
-</p>
 <h1 align="center">Hi 👋, I'm Furkan Cosgun</h1>
 <h3 align="center">A passionate IT Architect from Denmark</h3>
 
