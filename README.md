@@ -1,3 +1,5 @@
+# 🌟 Furkan Cosgun's GitHub Profile
+
 ![Profile Views](https://komarev.com/ghpvc/?username=furkancosk123&color=green&style=flat&label=Profile+Views)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkancoskun0402/)
@@ -6,6 +8,12 @@
 
 - 📖 I'm currently studying [IT-Architecture](https://www.eaaa.dk/videregaende-uddannelser/professionsbacheloruddannelse/it-arkitektur/).
 - 📫 How to reach me: [Click here](mailto:doncskn@gmail.com)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=furkancosk123&no-frame=true)
 
 ---
 
@@ -35,16 +43,15 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-
 ---
 
-## 📊 Language Distribution
+## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=furkancosk123" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkancosk123&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
+<div style="display: flex; align-items: center; justify-content: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=furkancosk123&show_icons=true&theme=dark" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkancosk123&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+  </a>
+</div>
