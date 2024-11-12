@@ -5,7 +5,7 @@
 ![Followers](https://img.shields.io/github/followers/furkancosk123?style=social)
 
 - 📖 I'm currently studying [IT-Architecture](https://www.eaaa.dk/videregaende-uddannelser/professionsbacheloruddannelse/it-arkitektur/).
-- 📫 How to reach me: [mail@dinwebsite.dk](mailto:doncskn@gmail.com)
+- 📫 How to reach me: [Click here](mailto:doncskn@gmail.com)
 
 ---
 
