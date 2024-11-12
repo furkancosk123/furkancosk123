@@ -1,5 +1,3 @@
-# furkancosk123 / README.md
-
 ![Profile Views](https://komarev.com/ghpvc/?username=furkancosk123&color=green&style=flat&label=Profile+Views)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkancoskun0402/)
