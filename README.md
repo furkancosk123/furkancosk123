@@ -11,12 +11,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=furkancosk123&no-frame=true)
-
----
-
 ## 🛠 Skills
 
 - See [LinkedIn](https://www.linkedin.com/in/furkancoskun0402/) for skills.
@@ -45,13 +39,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div style="display: flex; align-items: center; justify-content: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=furkancosk123&show_icons=true&theme=dark" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkancosk123&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
-  </a>
-</div>
