@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doncskn@gmail.com)
 ![Followers](https://img.shields.io/github/followers/furkancosk123?style=social)
 
-- 📖 I'm currently reading [IT-Architecture](https://www.eaaa.dk/videregaende-uddannelser/professionsbacheloruddannelse/it-arkitektur/).
+- 📖 I'm currently studying [IT-Architecture](https://www.eaaa.dk/videregaende-uddannelser/professionsbacheloruddannelse/it-arkitektur/).
 - 📫 How to reach me: [mail@dinwebsite.dk](mailto:doncskn@gmail.com)
 
 ---
